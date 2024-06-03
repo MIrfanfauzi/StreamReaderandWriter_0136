@@ -20,5 +20,6 @@ int main()
         /*jika selain interger maka blok ini akan dieksekusi*/
         cout << "default pengecualian dieksekusi" << endl;
     }
+    return 0;
 }
 
