@@ -20,6 +20,6 @@ int main()
         /*akan dieksekusi karn array data hanya
         memiliki 3 elemen*/
     }
-    
+    cout << "baris program yang terakhir " << endl;
 }
 
