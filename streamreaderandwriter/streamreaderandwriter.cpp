@@ -43,5 +43,9 @@ int main()
             //dan tampilkan disini
             cout << baris << '\n';
         }
+        //tutup file tsb setelah selesai
+        infile.close();
+
     }
+    
 }
