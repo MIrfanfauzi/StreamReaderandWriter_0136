@@ -5,5 +5,9 @@ using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    string baris;
+
+    //membuka file dalam mode menulis.
+    ofstream outfile;
+    
 }
